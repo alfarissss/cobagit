@@ -1,0 +1,15 @@
+0 Abyssinian
+1 American Bobtail
+2 American Shorthair
+3 Bengal
+4 Birman
+5 Bombay
+6 British Shorthair
+7 Egyptian Mau
+8 Maine Coon
+9 Persian
+10 Ragdoll
+11 Russian Blue
+12 Siamese
+13 Sphynx
+14 Tuxedo
