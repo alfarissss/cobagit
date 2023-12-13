@@ -84,8 +84,8 @@ def prediction():
             predicted_label = labels[np.argmax(predictions)]
             # Confidence score
             confidence_score = float(predictions[0][np.argmax(predictions)])
-            # Ambil nama ras kucing tanpa angka dari label prediksi
-            cat_breed_name = predicted_label[2:]
+            # Ambil nama ras kucing  dari label prediksi
+            cat_breed_name = predicted_label
             # Dapatkan deskripsi dari kamus
             cat_breed_description = cat_descriptions.get(cat_breed_name)
 
